@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    font-family: 'Sriracha', cursive;
+}
+body{
+    width: 100%;
+    height: 100%;
+}
+div{
+    width: inherit;
+    height: inherit;
+}
+#wholePage{
+    width: inherit;
+    height: inherit;
+}
+p{
+    font-size: 75px;
+    color: lavender;
+    position: absolute;
+    left: 32%;
+    width: 500px;
+    text-align: center;
+}
+#good{
+    top: 30%;
+}
+#time{
+    top: 45%;
+}
